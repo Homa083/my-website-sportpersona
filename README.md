@@ -1,2 +1,2 @@
-# my-website-sportpersona
+# Sportpesona
 Сайт для компании спортперсона
